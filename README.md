@@ -6,7 +6,7 @@ Curated List of Statistics and Machine Learning Resources
 
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - with Applications in R
 
-- [The Elements ofStatistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) - Data Mining, Inference, and Prediction
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) - Data Mining, Inference, and Prediction
 
 
 ## Machine Learning
