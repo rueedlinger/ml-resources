@@ -1,6 +1,6 @@
-# ml-resources
-A curated list of statistics, data visualization and machine learning resources which in find useful, have read or want to read.
+# Statistics, Data Visualization and Machine Learning Resources
 
+A curated list of statistics, data visualization and machine learning resources which in find useful, have read or want to read.
 
 # Books
 ## Statistics
