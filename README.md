@@ -12,7 +12,7 @@ Curated List of Statistics and Machine Learning Resources
 
 ## Machine Learning
 
-- [Probabilistic Machine Learning]() - An Introduction
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) - An Introduction
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 
