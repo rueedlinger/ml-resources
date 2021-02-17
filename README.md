@@ -15,7 +15,7 @@ Curated List of Statistics, Data Visualization and Machine Learning Resources
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) - An Introduction
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
-# Data Science
+## Data Science
 
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/) - Data Analysis and Prediction Algorithms with R
 
