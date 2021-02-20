@@ -25,6 +25,7 @@ A curated list of statistics, data visualization and machine learning resources 
 
 ## Deep Learning
 
+- [Deep Learning](https://www.deeplearningbook.org/) - by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 - [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code, math, and discussions. Implemented with NumPy/MXNet, PyTorch, and TensorFlow. 
 
 ## Data Visualization
