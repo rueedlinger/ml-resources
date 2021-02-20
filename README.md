@@ -3,6 +3,9 @@
 A curated list of statistics, data visualization and machine learning resources which in find useful, have read or want to read.
 
 # Books
+
+## Mathematics
+- [A Mathematics Course for Political and Social Research](https://people.duke.edu/~das76/MooSieBook.html)
 ## Statistics
 
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - with Applications in R
