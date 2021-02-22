@@ -1,6 +1,11 @@
-# Statistics, Data Visualization and Machine Learning Resources
+# Curated List fo Machine Learning Resources
 
-A curated list of statistics, data visualization and machine learning resources which in find useful, have read or want to read.
+A curated list of machine Learning resource I find very useful. The List is structured into the following topics:
+- **Programming** - resources to get started with the most used programming languages in machine learning.
+- **Mathematics** - great resource to get the mathematical foundation you need for machine learning.
+- **Statistics** - the statistics basic you should know.
+- **Machine Learning** - a lot of interesting resources with focus on machine learning, deep learning and data science.
+- **Data Visualization** - collection of resource which teaches you to  visualize your results.
 
 # Books
 
@@ -23,14 +28,7 @@ A curated list of statistics, data visualization and machine learning resources 
 ## Machine Learning
 
 - [Probabilistic Machine Learning - An Introduction](https://probml.github.io/pml-book/book1.html), 2021, by Kevin Patrick Murphy.
-
-
-## Data Science
-
 - [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/), 2021, by Rafael A. Irizarry.
-
-## Deep Learning
-
 - [Deep Learning](https://www.deeplearningbook.org/), 2016, by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 - [Dive into Deep Learning](https://d2l.ai/), 2020, by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola
 
@@ -39,11 +37,14 @@ A curated list of statistics, data visualization and machine learning resources 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/), 2019, by Claus O. Wilke.
 
 # Podcasts / Videos
+## Machine Learning
 
 - [Data Science at Home](https://datascienceathome.com) - A podcast about machine learning, artificial intelligence and algorithms.
 
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/) - videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society.
 
+## Statistics
 - [StatQuest](https://www.youtube.com/c/joshstarmer/) - breaks down the major methodologies into easy to understand pieces. 
 
+## Mathematics
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown/) - some combination of math and entertainment. Difficult problems  made simple with great animations.
