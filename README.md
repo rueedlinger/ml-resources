@@ -4,6 +4,11 @@ A curated list of statistics, data visualization and machine learning resources 
 
 # Books
 
+## Programming
+- [Think Python - How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python/), 2012, by Allen B. Downey.
+
+- [R for Data Science](https://r4ds.had.co.nz/), 2017, by Hadley Wickham and Garrett Grolemund.
+
 ## Mathematics
 - [A Mathematics Course for Political and Social Research](https://people.duke.edu/~das76/MooSieBook.html), 2013, by Will H. Moore, David A. Siegel.
 - [Mathematics for Machine Learning](https://mml-book.github.io/), 2020, by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong.
