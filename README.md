@@ -1,4 +1,4 @@
-# Curated List fo Machine Learning Resources
+# Curated List of Machine Learning Resources
 
 A curated list of machine Learning resource I find very useful. The List is structured into the following topics:
 - **Programming** - resources to get started with the most used programming languages in machine learning.
@@ -31,6 +31,8 @@ A curated list of machine Learning resource I find very useful. The List is stru
 - [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/), 2021, by Rafael A. Irizarry.
 - [Deep Learning](https://www.deeplearningbook.org/), 2016, by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 - [Dive into Deep Learning](https://d2l.ai/), 2020, by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola
+- [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/), 2020, by Sylvain Gugger, Jeremy Howard.
+
 
 ## Data Visualization
 
