@@ -60,4 +60,6 @@ A curated list of machine Learning resource I find very useful. The List is stru
 
 ## Machine Learning
 
-- [arXiv.org > cs > cs.LG](https://arxiv.org/list/cs.LG/recent) - the latest scholarly articles in the field of machine learning.
+- [arXiv.org > cs > cs.LG](https://arxiv.org/list/cs.LG/recent) - the latest scholarly articles in the field of machine learning (CS).
+
+- [arXiv.org > stat > stat.ML](https://arxiv.org/list/stat.ML/recent) - the latest scholarly articles in the field of machine learning (Stat).
