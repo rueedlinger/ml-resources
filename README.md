@@ -48,6 +48,8 @@ A curated list of machine Learning resource I find very useful. The List is stru
 
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/) - videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society.
 
+- [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak) - Lighthearted bite-sized Machine Learning videos for everyone
+
 ## Statistics
 
 - [StatQuest](https://www.youtube.com/c/joshstarmer/) - breaks down the major methodologies into easy to understand pieces.
