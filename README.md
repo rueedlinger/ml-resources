@@ -44,7 +44,9 @@ A curated list of machine Learning resource I find very useful. The List is stru
 
 ## Machine Learning
 
-- [Learning from Data](https://work.caltech.edu/telecourse), introductory Machine Learning online course by Yaser S. Abu-Mostafa from Caltech. 
+- [Learning from Data](https://work.caltech.edu/telecourse), introductory machine learning online course by Yaser S. Abu-Mostafa from Caltech. 
+
+- [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229), introduction to machine learning and statistical pattern recognition from Stanford.
 
 # Podcasts / Videos
 
