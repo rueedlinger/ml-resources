@@ -40,6 +40,12 @@ A curated list of machine Learning resource I find very useful. The List is stru
 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/), 2019, by Claus O. Wilke.
 
+# Online Course (MOOC)
+
+## Machine Learning
+
+- [Learning from Data](https://work.caltech.edu/telecourse), introductory Machine Learning online course by Yaser S. Abu-Mostafa from Caltech. 
+
 # Podcasts / Videos
 
 ## Machine Learning
