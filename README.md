@@ -35,6 +35,7 @@ A curated list of machine Learning resource I find very useful. The List is stru
 - [Deep Learning](https://www.deeplearningbook.org/), 2016, by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 - [Dive into Deep Learning](https://d2l.ai/), 2020, by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola
 - [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/), 2020, by Sylvain Gugger, Jeremy Howard.
+- [Automated Machine Learning: Methods, Systems, Challenges}](https://www.automl.org/book/), 2018, Hutter, Frank and Kotthoff, Lars and Vanschoren, Joaquin
 
 ## Data Visualization
 
