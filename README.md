@@ -20,6 +20,7 @@ A curated list of machine Learning resource I find very useful. The List is stru
 
 - [A Mathematics Course for Political and Social Research](https://people.duke.edu/~das76/MooSieBook.html), 2013, by Will H. Moore, David A. Siegel.
 - [Mathematics for Machine Learning](https://mml-book.github.io/), 2020, by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong.
+- [Linear Algebra for Machine Learning: Complete Math Course on YouTube](https://www.jonkrohn.com/posts/2021/5/9/linear-algebra-for-machine-learning-complete-math-course-on-youtube), 2021 by Jon Krohn
 
 ## Statistics
 
