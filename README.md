@@ -37,6 +37,7 @@ A curated list of machine Learning resource I find very useful. The List is stru
 - [Dive into Deep Learning](https://d2l.ai/), 2020, by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola
 - [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/), 2020, by Sylvain Gugger, Jeremy Howard.
 - [Automated Machine Learning: Methods, Systems, Challenges}](https://www.automl.org/book/), 2018, by Hutter, Frank and Kotthoff, Lars and Vanschoren, Joaquin
+- [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/), 2020, by Christoph Molnar
 
 ## Data Visualization
 
