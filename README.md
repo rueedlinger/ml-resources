@@ -38,6 +38,7 @@ A curated list of machine Learning resource I find very useful. The List is stru
 - [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/), 2020, by Sylvain Gugger, Jeremy Howard.
 - [Automated Machine Learning: Methods, Systems, Challenges}](https://www.automl.org/book/), 2018, by Hutter, Frank and Kotthoff, Lars and Vanschoren, Joaquin
 - [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/), 2020, by Christoph Molnar
+- [Speech and Language Processing -  An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition](https://web.stanford.edu/~jurafsky/slp3/), 2023, 3rd ed. draft, by Dan Jurafsky and James H. Martin 
 
 ## Data Visualization
 
