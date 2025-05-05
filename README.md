@@ -28,10 +28,12 @@ A curated list of machine Learning resource I find very useful. The List is stru
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), 2009, 2nd edition, by Trevor Hastie Robert Tibshirani, Jerome Friedman.
 - [Think Stats - Exploratory Data Analysis in Python](https://greenteapress.com/wp/think-stats-2e/), 2014, 2nd edition, by Allen B. Downey.
 - [Think Bayes - Bayesian Statistics Made Simple](https://greenteapress.com/wp/think-bayes/), 2012, by Allen B. Downey.
+- [Forecasting: Principles and Practice](https://otexts.com/fpp3/) 2021, 3rd ed., by Rob J Hyndman and George Athanasopoulos
 
 ## Machine Learning
 
-- [Probabilistic Machine Learning - An Introduction](https://probml.github.io/pml-book/book1.html), 2021, by Kevin Patrick Murphy.
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html), 2022, by Kevin Patrick Murphy.
+- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html), 2023, by Kevin Patrick Murphy.
 - [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/), 2021, by Rafael A. Irizarry.
 - [Deep Learning](https://www.deeplearningbook.org/), 2016, by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 - [Dive into Deep Learning](https://d2l.ai/), 2020, by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola
